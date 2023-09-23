@@ -36,12 +36,26 @@ print(course_name[:])
 course = "Python Programming  \n for \"beginners\""
 print(course)
 
-first_name ="Leila"
-last_name ="Farsani"
-full_name = first_name +" "+ last_name
+first_name = "Leila"
+last_name = "Farsani"
+full_name = first_name + " " + last_name
 print(full_name)
 
+# Formatted Strings
 full = f"{first_name} {last_name}"
 username = F"{first_name}{len(last_name)+3}"
 print(full)
 print(username)
+
+# Strings Methods
+print(course_name.upper())
+print(course_name)
+print(course_name.lower())
+print(course_name.islower())
+print(message.strip())
+print(len(message.strip()))
+print(message.find("leila"))
+print(message.find("Leila"))
+print(course.find("P"))
+print(course.find("Pr"))
+print(course.replace("P", "J"))
