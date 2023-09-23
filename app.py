@@ -82,3 +82,14 @@ print(10 // 3)
 print(10 % 3)
 print(10 ** 3)
 
+# Augmented Assignment Operator
+
+x = 10
+x = x + 5
+x += 5
+
+y = 19
+y *= 2
+
+
+print(x, y)
