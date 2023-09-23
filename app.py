@@ -27,7 +27,7 @@ print(course_name[0:])
 print(course_name[:3])
 print(course_name[:])
 
-# scape sequences 
+# scape sequences
 # \"
 # \'
 # \\
@@ -35,3 +35,9 @@ print(course_name[:])
 
 course = "Python Programming  \n for \"beginners\""
 print(course)
+
+first_name ="Leila"
+last_name ="Farsani"
+full_name = first_name +" "+ last_name
+
+print(full_name)
