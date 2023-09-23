@@ -26,3 +26,12 @@ print(course_name[0:3])
 print(course_name[0:])
 print(course_name[:3])
 print(course_name[:])
+
+# scape sequences 
+# \"
+# \'
+# \\
+# \n
+
+course = "Python Programming  \n for \"beginners\""
+print(course)
