@@ -12,3 +12,7 @@ My name is Leila,
 blah blah blah 
 
 """
+
+print(message)
+print(len(message))
+print(len(course_name))
