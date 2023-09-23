@@ -63,3 +63,7 @@ print(course.replace("P", "J"))
 # in Operator
 print("Pro" in course)
 print("pro" in course)
+
+# not Operator
+print("Swift" not in course)
+print("ram" not in course)
