@@ -59,3 +59,7 @@ print(message.find("Leila"))
 print(course.find("P"))
 print(course.find("Pr"))
 print(course.replace("P", "J"))
+
+# in Operator
+print("Pro" in course)
+print("pro" in course)
