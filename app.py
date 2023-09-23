@@ -39,5 +39,9 @@ print(course)
 first_name ="Leila"
 last_name ="Farsani"
 full_name = first_name +" "+ last_name
-
 print(full_name)
+
+full = f"{first_name} {last_name}"
+username = F"{first_name}{len(last_name)+3}"
+print(full)
+print(username)
