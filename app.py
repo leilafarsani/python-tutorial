@@ -67,3 +67,8 @@ print("pro" in course)
 # not Operator
 print("Swift" not in course)
 print("ram" not in course)
+
+# Numbers
+x = 1         # Integer
+y = 9.6       # Float
+z = 5 + 4j    # Complex   a + bi
