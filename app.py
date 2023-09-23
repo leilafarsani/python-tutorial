@@ -72,3 +72,13 @@ print("ram" not in course)
 x = 1         # Integer
 y = 9.6       # Float
 z = 5 + 4j    # Complex   a + bi
+
+# Maths Operators
+print(10 + 3)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
+print(10 // 3)
+print(10 % 3)
+print(10 ** 3)
+
