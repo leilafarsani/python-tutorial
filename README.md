@@ -2,3 +2,4 @@
 ### Introduction
 ### Hello World
 ### Variables
+### Data Types
