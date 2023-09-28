@@ -99,3 +99,10 @@ print(x, y)
 
 print(round(6.7))
 print(abs(-6.7))
+
+# math module (separate file with Python code)
+
+import math 
+
+print(math.ceil(8.3))
+print(math.floor(8.3))
