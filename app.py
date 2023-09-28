@@ -106,3 +106,17 @@ import math
 
 print(math.ceil(8.3))
 print(math.floor(8.3))
+
+
+# Input and Type Conversion
+
+# int(x)
+# float(x)
+# str(x)
+# bool(x)
+
+x = input("x:")
+y = int(x) + 5
+
+print(type(x))
+print(f"x:{x}, y:{y}")
