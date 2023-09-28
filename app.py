@@ -93,3 +93,9 @@ y *= 2
 
 
 print(x, y)
+
+
+# some functions to work with numbers
+
+print(round(6.7))
+print(abs(-6.7))
