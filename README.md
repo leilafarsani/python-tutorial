@@ -1,6 +1,15 @@
 # python-tutorial
 ### Introduction
-Why Python?
+
+Python is a dynamic and strongly typed programming language. It employs both duck typing and gradual typing, via type hints.
+
+Imperative, declarative (e.g., functional), and object-oriented programming styles are all supported, but internally everything in Python is an object.
+
+Python puts a strong emphasis on code readability and (similar to Haskell) uses significant indentation to denote function, method, and class definitions.
+
+Python was created by Guido van Rossum and first released in 1991.
+
+#### Why Python?
 
 	1.	Readability: Python’s syntax is designed to be clear and straightforward. It reads almost like plain English, making it easy for newcomers to understand and write code.
 	2.	Versatility: Python is a Swiss Army knife of programming languages. You can use it for web development, data analysis, scientific computing, automation, artificial intelligence, and more.
