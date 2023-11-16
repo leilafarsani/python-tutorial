@@ -1,6 +1,7 @@
 # python-tutorial
 ### Introduction
 
+#### Definition
 Python is a dynamic and strongly typed programming language. It employs both duck typing and gradual typing, via type hints.
 
 Imperative, declarative (e.g., functional), and object-oriented programming styles are all supported, but internally everything in Python is an object.
