@@ -16,7 +16,11 @@ Python was created by Guido van Rossum and first released in 1991.
 	2.	Versatility: Python is a Swiss Army knife of programming languages. You can use it for web development, data analysis, scientific computing, automation, artificial intelligence, and more.
 	3.	Large Community: Python boasts a vibrant and supportive community. There are countless tutorials, libraries, and forums to help you learn and solve problems.
 	4.	Cross-Platform: Whether you use Windows, macOS, or Linux, Python works seamlessly on all major operating systems.
-	5.	Rich Ecosystem: Python comes with a vast standard library that provides pre-built modules for various tasks, saving you time and effort.
+	5.	Rich Ecosystem: Python comes with a vast standard library that provides pre-built modules for various tasks, saving 
+	you time and effort.
+
+### Comment 
+We can add comments to our Python scripts. Comments are important to make sure that you and others can understand what your code is about and do not run as Python code. They start with # tag. 
 
 ### Hello World
 ### Variables
